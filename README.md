@@ -7,6 +7,11 @@ Aplikasi surat interaktif berbasis React, TypeScript, dan Vite. Buka botol untuk
 - Node.js 20.19+ atau 22.12+
 - npm
 
+## CLONE
+```bash
+git clone https://github.com/fellyonhart/bottle-note
+```
+
 ## Menjalankan secara lokal
 
 ```bash
